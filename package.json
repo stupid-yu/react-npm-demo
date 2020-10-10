@@ -1,0 +1,19 @@
+{
+  "name": "react-npm-demo",
+  "version": "1.0.0",
+  "description": "react-npm-demo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "npm"
+  ],
+  "author": "hui.yu",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
